@@ -10,17 +10,17 @@
 <p> Furthermore, In recent years there has been a vast increase in available data with the advancement of smart cities. This modernization can have a favorable impact on transportation networks in the area of ITS, reducing travel times, boosting productivity, and minimizing the environmental impact of vehicles. ML and DL technologies are fast-growing domains for predicting traffic flow. Traffic signals, accidents, weather conditions, and road repairs are the primary causes of traffic. Since real-time traffic data are largely produced exponentially, big data principles must be used to improve data transportation. This fact motivated us to to predict the volume of traffic flow between Minneapolis and St. Paul at a specific point in Minnesota. Our aim is to build a multi-step Recurrent Nural Network (RNN) with Long Short Term Memory (LSTM) model that makes a single prediction point of the traffic volume 2 hours into the future, given the previous 6-hour window.</p>
 
 
-## Results
+## 
 
  <a href="https://github.com/thenomaniqbal/Traffic-flow-prediction/">
-    <img src="images/ITS.png"> 
-    <img src="images/ITS2.png"> 
-    <img src="images/models.png">  
-    <img src="images/1.PNG"> 
-    <img src="images/2.PNG">  
-    <img src="images/3.PNG"> 
-    <img src="images/4.PNG"> 
-    <img src="images/5.PNG"> 
-    <img src="images/6.PNG">  
-    <img src="images/7.PNG"> 
+    <img src="images/ITS.png" width="100%" height="100%"> 
+    <img src="images/ITS2.png" width="100%" height="100%"> 
+    <img src="images/models.png" width="100%" height="100%">  
+    <img src="images/1.PNG" width="100%" height="100%"> 
+    <img src="images/2.PNG" width="100%" height="100%">  
+    <img src="images/3.PNG" width="100%" height="100%"> 
+    <img src="images/4.PNG" width="100%" height="100%"> 
+    <img src="images/5.PNG" width="100%" height="100%"> 
+    <img src="images/6.PNG" width="100%" height="100%">  
+    <img src="images/7.PNG" width="100%" height="100%"> 
   </a>
