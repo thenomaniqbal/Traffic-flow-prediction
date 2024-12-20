@@ -10,9 +10,9 @@ Traffic Flow Prediction (TFP) is a key aspect of Intelligent Transportation Syst
 To address these issues and reduce the economic burden of congestion, many countries have adopted ITS solutions. ITS uses advanced traffic management technologies, including data communication, information processing and predictive analytics, to improve transport efficiency and safety [2]. TFP serves as a cornerstone of ITS, enabling critical functions such as speed regulation, travel time estimation and congestion management.  
 
 <p align="center">
-  <img src="images/ITS2.png" alt="ITS" width="100%" height="400">
+  <img src="images/ITS2.png" alt="ITS" width="100%" height="420">
 </p>  
-                                                        *Figure 1. ITS*  
+                                         <p align="center"> <b>Figure 1. ITS</b> </p>                 
 
 Recent advances in smart city initiatives have led to an increase in the availability of traffic data, facilitating the development of data-driven predictive models. These models significantly improve transport networks by reducing travel times, increasing productivity and minimising the environmental impact of vehicles. Among these approaches, deep learning (DL) techniques, in particular long short-term memory (LSTM) networks, have attracted considerable attention due to their ability to process sequential data and outperform traditional machine learning (ML) methods in terms of accuracy and efficiency [3].  
 
@@ -81,7 +81,6 @@ This project is part of my GitHub directory. Contributions and feedback are alwa
     <img src="images/ITS2.png" width="100%" height="100%"> 
     <img src="images/models.png" width="100%" height="100%">  
     <img src="images/1.PNG" width="100%" height="100%"> 
-    <img src="images/2.PNG" width="100%" height="100%">  
     <img src="images/3.PNG" width="100%" height="100%"> 
     <img src="images/4.PNG" width="100%" height="100%"> 
     <img src="images/5.PNG" width="100%" height="100%"> 
